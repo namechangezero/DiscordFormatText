@@ -7,7 +7,7 @@
 - No, DFT does not work for mobile devices because the Discord application doesn't format the same way on mobile.  
 
 ### <u>➜ How to use DFT</u>
-- [Click here](namechange.github.io/DiscordFormatText)
+- [Click here](https://namechangezero.github.io/DiscordFormatText/](https://namechangezero.github.io/DiscordFormatText/)
 - Enter the text you want to format.
 - Select the text you want to format.
 - Use the toolbox to format after your wishes.
